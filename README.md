@@ -1,4 +1,4 @@
-# Demo1
+# Online Pizza Store
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.9.
 
