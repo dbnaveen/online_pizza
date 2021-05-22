@@ -1,0 +1,38 @@
+<div class="app-toolbar" role="banner">
+    <div class="app-logo">
+        <svg xmlns="http://www.w3.org/2000/svg" width="570.838" height="571" viewBox="0 0 570.838 571">
+            <!-- fill="#e61e29" -->
+            <path fill="#ff9800" fill-rule="evenodd"
+                d="M72.875,181.613,249.6,5.511a19.024,19.024,0,0,1,26.826.045l166.73,167.316a19.02,19.02,0,0,1-.048,26.829L266.388,375.806,72.875,181.613Zm158.352-31.248a47.431,47.431,0,1,1-.115,67.075A47.432,47.432,0,0,1,231.228,150.366Z"
+                data-name="Path 3184" transform="translate(122.171)" />
+            <path fill="#0074ad" fill-rule="evenodd"
+                d="M219.9,230.647a47.43,47.43,0,1,1-.118,67.072,47.427,47.427,0,0,1,.118-67.072Zm-138.852.428a47.43,47.43,0,1,1-.118,67.072A47.429,47.429,0,0,1,81.051,231.075ZM5.559,248.718,182.277,72.61,375.793,266.8,199.072,442.908a19.028,19.028,0,0,1-26.831-.048L5.51,275.547a19.025,19.025,0,0,1,.048-26.829Z"
+                data-name="Path 3185" transform="translate(0 121.727)" />
+            <path fill="#0074ad"
+                d="M102.985,230.781v-23.7H93.96V202.94h22.747v4.138h-9.081v23.7Zm16.835,0V202.94h6.833l7.031,22.233,6.8-22.233h6.707v27.841h-4.245V207.418l-7.173,23.363h-4.2l-7.483-23.7v23.7Z"
+                data-name="Path 3186" transform="translate(157.519 340.219)" />
+        </svg>
+    </div>
+    <span class="app-title">
+        <span>My</span> <span>Pizza</span>
+    </span>
+    <div class="spacer"></div>
+    <a [routerLink]="['/store']" [routerLinkActive]="['router-link-active']" class="app-top-item">
+        Store
+    </a>
+    <a [routerLink]="['/admin']" [routerLinkActive]="['router-link-active']" class="app-top-item">
+        Admin
+    </a>
+
+    <button mat-button (click)="onclickCart()">
+        <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 26 26" height="28px" viewBox="0 0 26 26"
+            width="28px" fill="#FFFFFF">
+            <g>
+                <rect fill="none" height="26" width="26" />
+                <path
+                    d="M18,6h-2c0-2.21-1.79-4-4-4S8,3.79,8,6H6C4.9,6,4,6.9,4,8v12c0,1.1,0.9,2,2,2h12c1.1,0,2-0.9,2-2V8C20,6.9,19.1,6,18,6z M10,10c0,0.55-0.45,1-1,1s-1-0.45-1-1V8h2V10z M12,4c1.1,0,2,0.9,2,2h-4C10,4.9,10.9,4,12,4z M16,10c0,0.55-0.45,1-1,1 s-1-0.45-1-1V8h2V10z" />
+            </g>
+        </svg>
+        <mat-icon class="badge-icon" [matBadge]="products.length" matBadgeSize="small"></mat-icon>
+    </button>
+</div>

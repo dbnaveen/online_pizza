@@ -1,0 +1,161 @@
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+  html,
+  body {
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    background-color: #fff !important;
+    font-size: 16px !important;
+    color: black !important;
+    overflow-y: auto !important;
+  }  
+
+  .main-content {
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    width: 100%;
+  }  
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin: 8px 0;
+  }
+
+  p {
+    margin: 0;
+  }
+
+  .spacer {
+    flex: 1;
+  }
+
+  .c-pointer {
+    cursor: pointer;
+  }
+
+  .card-row {
+    [class*="col-"] {
+      // padding: 0 3.25rem 3.39rem 0 !important;
+      padding: 0 2rem 3.39rem 2rem !important;
+    }
+  }
+
+  .row-no-padding {
+    [class*="col-"] {
+      padding-left: 0 !important;
+      padding-right: 0 !important;
+    }
+  }  
+
+  .mat-card {
+    .mat-card-image {
+      border-top-right-radius: 5px !important;
+      border-top-left-radius: 5px !important;
+    }
+    .mat-card-content {
+      .card-name {
+        color: #1C1C1C;
+        font-weight: 500;
+        margin-top: 8px;
+        display: flex;
+        align-items: center;
+      }
+      .card-name.card-veg {
+        svg {
+          fill: green;
+        }
+      }
+      .card-name.card-nonveg {
+        svg {
+          fill: #AA1F1F;
+        }
+      }
+      .card-desc{
+        color: #676767;
+        height: 40px;
+        font-size: 12px;
+      }
+    }
+    .mat-card-actions {
+      margin: 0;
+      padding: 0px;
+      align-items: center;
+
+      .card-price {
+        color: #2B2B2B;
+        font-weight: 500;
+      }
+
+      .card-quantity {
+        width: 85px;
+        height: 38px;
+
+        .mat-select {
+          height: 38px;
+          border: 1px solid #c1c1c1;
+          border-radius: 5px;
+        }
+        .mat-select-trigger {
+          height: 38px;
+        }
+        .mat-select-value {
+          height: 38px;
+          padding: 0;
+          vertical-align: middle;
+          text-align: center;
+        }
+        .mat-select-arrow {
+          margin: 0 8px;
+          color: #9a9a9a;
+        }
+      }
+
+      .card-add-btn {
+        position: relative;
+        border: 1px solid #AA1F1F;
+        width: 110px;
+        background: rgba(170, 31, 31, 0.05);
+        color: #AA1F1F;
+        font-weight: 400;
+
+        .card-add-icon {
+          color: #AA1F1F;
+          font-size: 14px;
+          position: absolute;
+          top: 5px;
+          right: 20px;          
+        }
+      }
+    }
+  }
+
+  .mat-snack-bar-container {
+    margin-bottom: 4rem !important;
+  }
+  .mat-snack-bar-container {
+    background: #059e05 !important;
+  }
+  .mat-snack-bar-container.error-snack {
+    background: #ba3232 !important;
+  }
+  .mat-simple-snackbar-action {
+    .mat-button-wrapper::after {
+      font-family: 'Material Icons';
+      content: "close";
+      font-size: 18px;
+      color: #ffffff;
+    }
+  }
+
+
+  @media only screen and (min-width: 1199px) {
+    .card-add-btn {
+      width: 85px !important;
+    }
+  }

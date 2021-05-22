@@ -1,0 +1,68 @@
+.app-toolbar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 65px;
+    display: flex;
+    align-items: center;
+    background-color: #0A5C91;
+    color: white;
+    font-weight: 600;
+    padding: 0 2.5rem;
+
+    .app-logo {
+        height: 40px;
+        width: 50px;
+
+        svg {
+            height: 100%;
+            width: 100%;
+        }
+    }
+    .app-title {
+        font-size: 1.35rem;
+        padding: 0 0.75rem;
+        font-weight: 500;    
+        
+        span:first-child {
+          color: #ff9800;
+          padding-right: 4px;
+        }
+    }
+    .app-top-item {
+      height: 100%;
+      color: white;
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      padding: 0 1.75rem;
+    }
+    .app-top-item.router-link-active {
+      background: #034169;
+      color: #ff9800;
+    }     
+  }
+
+  .app-toolbar img {
+    margin: 0 16px;
+  }
+
+  .app-toolbar #twitter-logo {
+    height: 40px;
+    margin: 0 8px;
+  }
+
+  .app-toolbar #youtube-logo {
+    height: 40px;
+    margin: 0 16px;
+  }
+  .mat-icon {
+    width: 0 !important;
+    height: 12px !important;
+  }
+  .mat-badge-content {
+    background: #ff9800 !important;
+    display: inline-block;
+  }  
+ 

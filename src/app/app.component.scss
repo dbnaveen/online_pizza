@@ -1,0 +1,10 @@
+.app-header-container {
+    height: 65px;
+}
+.app-body-container {
+    height: calc(100% - 65px - 45px);
+    background-image: url(/assets/img/pizza_bg1.svg);
+    background-repeat: no-repeat;    
+    background-position: center;
+    background-size: cover;
+}
