@@ -1,0 +1,2651 @@
+[
+    {
+        "id": "my-box-single",
+        "price": 189,
+        "type": "deal",
+        "kind": "pizza-bundle",
+        "popularity": 14,
+        "delivery": true,
+        "collection": true,
+        "hidden": false,
+        "locked": false,
+        "options": [
+            {
+                "type": "pizza",
+                "count": 1,
+                "entities": [
+                    {
+                        "id": "double-paneer-supreme-pan-personal",
+                        "type": "pizza",
+                        "price": 90
+                    },
+                    {
+                        "id": "veg-exotica-pan-personal",
+                        "type": "pizza",
+                        "price": 90
+                    },
+                    {
+                        "id": "veggie-supreme-pan-personal",
+                        "type": "pizza",
+                        "price": 90
+                    },
+                    {
+                        "id": "chicken-tikka-supreme-pan-personal",
+                        "type": "pizza",
+                        "price": 130
+                    },
+                    {
+                        "id": "chicken-supreme-pan-personal",
+                        "type": "pizza",
+                        "price": 130
+                    },
+                    {
+                        "id": "triple-chicken-feast-pan-personal",
+                        "type": "pizza",
+                        "price": 130
+                    },
+                    {
+                        "id": "country-feast-pan-personal",
+                        "type": "pizza",
+                        "price": 70
+                    },
+                    {
+                        "id": "farmers-pick-pan-personal",
+                        "type": "pizza",
+                        "price": 70
+                    },
+                    {
+                        "id": "tandoori-paneer-pan-personal",
+                        "type": "pizza",
+                        "price": 70
+                    },
+                    {
+                        "id": "veggie-lover-pan-personal",
+                        "type": "pizza",
+                        "price": 70
+                    },
+                    {
+                        "id": "veg-kebab-surprise-pan-personal",
+                        "type": "pizza",
+                        "price": 70
+                    },
+                    {
+                        "id": "malai-chicken-tikka-pan-personal",
+                        "type": "pizza",
+                        "price": 110
+                    },
+                    {
+                        "id": "italian-chicken-feast-pan-personal",
+                        "type": "pizza",
+                        "price": 110
+                    },
+                    {
+                        "id": "chicken-tikka-pan-personal",
+                        "type": "pizza",
+                        "price": 110
+                    },
+                    {
+                        "id": "chicken-pepper-crunch-pan-personal",
+                        "type": "pizza",
+                        "price": 110
+                    },
+                    {
+                        "id": "double-cheese-pan-personal",
+                        "type": "pizza",
+                        "price": 50
+                    },
+                    {
+                        "id": "veggie-tandoori-pan-personal",
+                        "type": "pizza",
+                        "price": 50
+                    },
+                    {
+                        "id": "spiced-paneer-pan-personal",
+                        "type": "pizza",
+                        "price": 50
+                    },
+                    {
+                        "id": "veggie-feast-pan-personal",
+                        "type": "pizza",
+                        "price": 50
+                    },
+                    {
+                        "id": "chicken-pepperoni-pan-personal",
+                        "type": "pizza",
+                        "price": 90
+                    },
+                    {
+                        "id": "chicken-n-corn-delight-pan-personal",
+                        "type": "pizza",
+                        "price": 90
+                    },
+                    {
+                        "id": "double-chicken-sausage-pan-personal",
+                        "type": "pizza",
+                        "price": 90
+                    },
+                    {
+                        "id": "corn-&-cheese-pan-personal",
+                        "type": "pizza",
+                        "price": 20
+                    },
+                    {
+                        "id": "tandoori-onion-pan-personal",
+                        "type": "pizza",
+                        "price": 20
+                    },
+                    {
+                        "id": "spiced-chicken-meatballs-pan-personal",
+                        "type": "pizza",
+                        "price": 70
+                    },
+                    {
+                        "id": "margherita-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "chicken-sausage-pan-personal",
+                        "type": "pizza",
+                        "price": 50
+                    }
+                ],
+                "defaults": []
+            },
+            {
+                "type": "side",
+                "count": 1,
+                "entities": [
+                    {
+                        "id": "2-pcs-garlic-bread-single",
+                        "type": "side",
+                        "price": 0
+                    },
+                    {
+                        "id": "2-pcs-cheese-garlic-bread-single",
+                        "type": "side",
+                        "price": 30
+                    }
+                ],
+                "defaults": []
+            },
+            {
+                "type": "drink",
+                "count": 1,
+                "entities": [
+                    {
+                        "id": "pepsi-600ml",
+                        "type": "drink",
+                        "price": 0
+                    }
+                ],
+                "defaults": []
+            }
+        ],
+        "groupingStyle": "normal",
+        "veg": true,
+        "popular": false,
+        "new": false,
+        "validity": "*"
+    },
+    {
+        "id": "my-box-single-stuffed-crust",
+        "price": 255,
+        "type": "deal",
+        "kind": "pizza-bundle",
+        "popularity": 19,
+        "delivery": true,
+        "collection": true,
+        "hidden": false,
+        "locked": false,
+        "options": [
+            {
+                "type": "pizza",
+                "count": 1,
+                "entities": [
+                    {
+                        "id": "double-paneer-supreme-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 90
+                    },
+                    {
+                        "id": "veg-exotica-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 90
+                    },
+                    {
+                        "id": "veggie-supreme-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 90
+                    },
+                    {
+                        "id": "country-feast-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 70
+                    },
+                    {
+                        "id": "farmers-pick-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 70
+                    },
+                    {
+                        "id": "tandoori-paneer-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 70
+                    },
+                    {
+                        "id": "veggie-lover-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 70
+                    },
+                    {
+                        "id": "veg-kebab-surprise-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 70
+                    },
+                    {
+                        "id": "double-cheese-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 50
+                    },
+                    {
+                        "id": "veggie-tandoori-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 50
+                    },
+                    {
+                        "id": "spiced-paneer-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 50
+                    },
+                    {
+                        "id": "veggie-feast-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 50
+                    },
+                    {
+                        "id": "corn-&-cheese-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 20
+                    },
+                    {
+                        "id": "tandoori-onion-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 20
+                    },
+                    {
+                        "id": "margherita-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "chicken-tikka-supreme-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 130
+                    },
+                    {
+                        "id": "chicken-supreme-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 130
+                    },
+                    {
+                        "id": "triple-chicken-feast-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 130
+                    },
+                    {
+                        "id": "malai-chicken-tikka-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 110
+                    },
+                    {
+                        "id": "italian-chicken-feast-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 110
+                    },
+                    {
+                        "id": "chicken-tikka-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 110
+                    },
+                    {
+                        "id": "chicken-pepper-crunch-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 110
+                    },
+                    {
+                        "id": "chicken-pepperoni-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 90
+                    },
+                    {
+                        "id": "chicken-n-corn-delight-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 90
+                    },
+                    {
+                        "id": "double-chicken-sausage-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 90
+                    },
+                    {
+                        "id": "spiced-chicken-meatballs-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 70
+                    },
+                    {
+                        "id": "chicken-sausage-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 50
+                    }
+                ],
+                "defaults": []
+            },
+            {
+                "type": "side",
+                "count": 1,
+                "entities": [
+                    {
+                        "id": "2-pcs-garlic-bread-single",
+                        "type": "side",
+                        "price": 0
+                    },
+                    {
+                        "id": "2-pcs-cheese-garlic-bread-single",
+                        "type": "side",
+                        "price": 30
+                    }
+                ],
+                "defaults": []
+            },
+            {
+                "type": "drink",
+                "count": 1,
+                "entities": [
+                    {
+                        "id": "pepsi-600ml",
+                        "type": "drink",
+                        "price": 0
+                    }
+                ],
+                "defaults": []
+            }
+        ],
+        "groupingStyle": "normal",
+        "veg": true,
+        "popular": false,
+        "new": true,
+        "validity": "*"
+    },
+    {
+        "id": "magic-pizza-box-veg",
+        "price": 395,
+        "type": "deal",
+        "kind": "magic",
+        "popularity": 23,
+        "delivery": true,
+        "collection": true,
+        "hidden": false,
+        "locked": false,
+        "options": [
+            {
+                "type": "pizza",
+                "count": 1,
+                "entities": [
+                    {
+                        "id": "paneer-and-capsicum-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    }
+                ],
+                "defaults": []
+            },
+            {
+                "type": "pizza",
+                "count": 1,
+                "entities": [
+                    {
+                        "id": "onion-and-capsicum-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    }
+                ],
+                "defaults": []
+            },
+            {
+                "type": "pizza",
+                "count": 1,
+                "entities": [
+                    {
+                        "id": "corn-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    }
+                ],
+                "defaults": []
+            },
+            {
+                "type": "pizza",
+                "count": 1,
+                "entities": [
+                    {
+                        "id": "onion-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    }
+                ],
+                "defaults": []
+            }
+        ],
+        "groupingStyle": "normal",
+        "veg": true,
+        "popular": false,
+        "new": false,
+        "validity": "*"
+    },
+    {
+        "id": "double-treat-box",
+        "price": 399,
+        "type": "deal",
+        "kind": "pizza-bundle",
+        "popularity": 26,
+        "delivery": true,
+        "collection": true,
+        "hidden": false,
+        "locked": false,
+        "options": [
+            {
+                "type": "pizza",
+                "count": 2,
+                "entities": [
+                    {
+                        "id": "country-feast-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "farmers-pick-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "tandoori-paneer-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "veggie-lover-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "veg-kebab-surprise-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "double-cheese-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "spiced-paneer-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "veggie-feast-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "veggie-tandoori-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "corn-&-cheese-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "tandoori-onion-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "margherita-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "chicken-pepperoni-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "chicken-n-corn-delight-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "double-chicken-sausage-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "spiced-chicken-meatballs-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "chicken-sausage-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "country-feast-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "farmers-pick-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "tandoori-paneer-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "veggie-lover-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "veg-kebab-surprise-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "double-cheese-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "spiced-paneer-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "veggie-feast-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "veggie-tandoori-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "corn-&-cheese-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "tandoori-onion-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "margherita-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "chicken-pepperoni-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "chicken-n-corn-delight-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "double-chicken-sausage-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "spiced-chicken-meatballs-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "chicken-sausage-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "country-feast-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "farmers-pick-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "tandoori-paneer-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "veggie-lover-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "veg-kebab-surprise-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "double-cheese-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "spiced-paneer-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "veggie-feast-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "veggie-tandoori-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "corn-&-cheese-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "tandoori-onion-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "margherita-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "chicken-pepperoni-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "chicken-n-corn-delight-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "double-chicken-sausage-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "spiced-chicken-meatballs-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "chicken-sausage-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    }
+                ],
+                "defaults": []
+            },
+            {
+                "type": "side",
+                "count": 1,
+                "entities": [
+                    {
+                        "id": "garlic-bread-stix-single",
+                        "type": "side",
+                        "price": 0
+                    }
+                ],
+                "defaults": []
+            }
+        ],
+        "groupingStyle": "normal",
+        "veg": true,
+        "popular": false,
+        "new": false,
+        "validity": "*"
+    },
+    {
+        "id": "double-treat-box-pasta",
+        "price": 399,
+        "type": "deal",
+        "kind": "pizza-bundle",
+        "popularity": 28,
+        "delivery": true,
+        "collection": true,
+        "hidden": false,
+        "locked": false,
+        "options": [
+            {
+                "type": "pizza",
+                "count": 1,
+                "entities": [
+                    {
+                        "id": "country-feast-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "farmers-pick-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "tandoori-paneer-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "veggie-lover-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "veg-kebab-surprise-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "double-cheese-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "spiced-paneer-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "veggie-feast-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "veggie-tandoori-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "corn-&-cheese-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "tandoori-onion-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "margherita-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "chicken-pepperoni-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "chicken-n-corn-delight-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "double-chicken-sausage-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "spiced-chicken-meatballs-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "chicken-sausage-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "country-feast-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "farmers-pick-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "tandoori-paneer-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "veggie-lover-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "veg-kebab-surprise-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "double-cheese-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "spiced-paneer-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "veggie-feast-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "veggie-tandoori-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "corn-&-cheese-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "tandoori-onion-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "margherita-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "chicken-pepperoni-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "chicken-n-corn-delight-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "double-chicken-sausage-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "spiced-chicken-meatballs-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "chicken-sausage-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "country-feast-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "farmers-pick-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "tandoori-paneer-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "veggie-lover-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "veg-kebab-surprise-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "double-cheese-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "spiced-paneer-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "veggie-feast-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "veggie-tandoori-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "corn-&-cheese-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "tandoori-onion-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "margherita-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "chicken-pepperoni-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "chicken-n-corn-delight-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "double-chicken-sausage-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "spiced-chicken-meatballs-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "chicken-sausage-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    }
+                ],
+                "defaults": []
+            },
+            {
+                "type": "side",
+                "count": 1,
+                "entities": [
+                    {
+                        "id": "spiced-tomato-twist-veg-single",
+                        "type": "side",
+                        "price": 0
+                    },
+                    {
+                        "id": "cheesy-comfort-veg-single",
+                        "type": "side",
+                        "price": 0
+                    },
+                    {
+                        "id": "spiced-tomato-twist-non-veg-single",
+                        "type": "side",
+                        "price": 20
+                    },
+                    {
+                        "id": "cheesy-comfort-non-veg-single",
+                        "type": "side",
+                        "price": 20
+                    }
+                ],
+                "defaults": []
+            },
+            {
+                "type": "side",
+                "count": 1,
+                "entities": [
+                    {
+                        "id": "garlic-bread-stix-single",
+                        "type": "side",
+                        "price": 0
+                    }
+                ],
+                "defaults": []
+            }
+        ],
+        "groupingStyle": "normal",
+        "veg": true,
+        "popular": false,
+        "new": false,
+        "validity": "*"
+    },
+    {
+        "id": "magic-pizza-box-non-veg",
+        "price": 445,
+        "type": "deal",
+        "kind": "magic",
+        "popularity": 30,
+        "delivery": true,
+        "collection": true,
+        "hidden": false,
+        "locked": false,
+        "options": [
+            {
+                "type": "pizza",
+                "count": 1,
+                "entities": [
+                    {
+                        "id": "onion-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    }
+                ],
+                "defaults": []
+            },
+            {
+                "type": "pizza",
+                "count": 1,
+                "entities": [
+                    {
+                        "id": "corn-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    }
+                ],
+                "defaults": []
+            },
+            {
+                "type": "pizza",
+                "count": 2,
+                "entities": [
+                    {
+                        "id": "meatball-and-onion-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    }
+                ],
+                "defaults": []
+            }
+        ],
+        "groupingStyle": "normal",
+        "veg": false,
+        "popular": false,
+        "new": false,
+        "validity": "*"
+    },
+    {
+        "id": "pizza-fest-supreme",
+        "price": 499,
+        "type": "deal",
+        "kind": "pizza-bundle",
+        "popularity": 31,
+        "delivery": true,
+        "collection": true,
+        "hidden": false,
+        "locked": false,
+        "options": [
+            {
+                "type": "pizza",
+                "count": 3,
+                "entities": [
+                    {
+                        "id": "double-paneer-supreme-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "veg-exotica-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "veggie-supreme-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "chicken-tikka-supreme-pan-personal",
+                        "type": "pizza",
+                        "price": 25
+                    },
+                    {
+                        "id": "chicken-supreme-pan-personal",
+                        "type": "pizza",
+                        "price": 25
+                    },
+                    {
+                        "id": "triple-chicken-feast-pan-personal",
+                        "type": "pizza",
+                        "price": 25
+                    },
+                    {
+                        "id": "country-feast-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "farmers-pick-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "tandoori-paneer-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "veggie-lover-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "veg-kebab-surprise-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "malai-chicken-tikka-pan-personal",
+                        "type": "pizza",
+                        "price": 25
+                    },
+                    {
+                        "id": "italian-chicken-feast-pan-personal",
+                        "type": "pizza",
+                        "price": 25
+                    },
+                    {
+                        "id": "chicken-tikka-pan-personal",
+                        "type": "pizza",
+                        "price": 25
+                    },
+                    {
+                        "id": "chicken-pepper-crunch-pan-personal",
+                        "type": "pizza",
+                        "price": 25
+                    },
+                    {
+                        "id": "double-paneer-supreme-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "veg-exotica-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "veggie-supreme-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "chicken-tikka-supreme-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 91
+                    },
+                    {
+                        "id": "chicken-supreme-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 91
+                    },
+                    {
+                        "id": "triple-chicken-feast-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 91
+                    },
+                    {
+                        "id": "country-feast-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "farmers-pick-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "tandoori-paneer-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "veggie-lover-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "veg-kebab-surprise-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "malai-chicken-tikka-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 91
+                    },
+                    {
+                        "id": "italian-chicken-feast-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 91
+                    },
+                    {
+                        "id": "chicken-tikka-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 91
+                    },
+                    {
+                        "id": "chicken-pepper-crunch-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 91
+                    },
+                    {
+                        "id": "double-paneer-supreme-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "veg-exotica-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "veggie-supreme-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "country-feast-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "farmers-pick-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "tandoori-paneer-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "veggie-lover-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "veg-kebab-surprise-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "chicken-tikka-supreme-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 91
+                    },
+                    {
+                        "id": "chicken-supreme-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 91
+                    },
+                    {
+                        "id": "triple-chicken-feast-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 91
+                    },
+                    {
+                        "id": "malai-chicken-tikka-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 91
+                    },
+                    {
+                        "id": "italian-chicken-feast-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 91
+                    },
+                    {
+                        "id": "chicken-tikka-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 91
+                    },
+                    {
+                        "id": "chicken-pepper-crunch-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 91
+                    }
+                ],
+                "defaults": []
+            }
+        ],
+        "groupingStyle": "normal",
+        "veg": true,
+        "popular": false,
+        "new": false,
+        "validity": "*"
+    },
+    {
+        "id": "one-plus-one",
+        "price": 599,
+        "type": "deal",
+        "kind": "pizza-bundle",
+        "popularity": 1,
+        "delivery": true,
+        "collection": true,
+        "hidden": false,
+        "locked": false,
+        "options": [
+            {
+                "type": "pizza",
+                "count": 2,
+                "entities": [
+                    {
+                        "id": "margherita-pan-medium",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "corn-&-cheese-pan-medium",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "tandoori-onion-pan-medium",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "veggie-tandoori-pan-medium",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "veggie-feast-pan-medium",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "spiced-paneer-pan-medium",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "double-cheese-pan-medium",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "veggie-lover-pan-medium",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "veg-kebab-surprise-pan-medium",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "tandoori-paneer-pan-medium",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "farmers-pick-pan-medium",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "country-feast-pan-medium",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "chicken-sausage-pan-medium",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "spiced-chicken-meatballs-pan-medium",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "chicken-pepperoni-pan-medium",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "chicken-n-corn-delight-pan-medium",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "double-chicken-sausage-pan-medium",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "double-paneer-supreme-pan-medium",
+                        "type": "pizza",
+                        "price": 50
+                    },
+                    {
+                        "id": "veg-exotica-pan-medium",
+                        "type": "pizza",
+                        "price": 50
+                    },
+                    {
+                        "id": "veggie-supreme-pan-medium",
+                        "type": "pizza",
+                        "price": 50
+                    },
+                    {
+                        "id": "chicken-pepper-crunch-pan-medium",
+                        "type": "pizza",
+                        "price": 50
+                    },
+                    {
+                        "id": "chicken-tikka-pan-medium",
+                        "type": "pizza",
+                        "price": 50
+                    },
+                    {
+                        "id": "italian-chicken-feast-pan-medium",
+                        "type": "pizza",
+                        "price": 50
+                    },
+                    {
+                        "id": "malai-chicken-tikka-pan-medium",
+                        "type": "pizza",
+                        "price": 50
+                    },
+                    {
+                        "id": "chicken-supreme-pan-medium",
+                        "type": "pizza",
+                        "price": 50
+                    },
+                    {
+                        "id": "chicken-tikka-supreme-pan-medium",
+                        "type": "pizza",
+                        "price": 50
+                    },
+                    {
+                        "id": "triple-chicken-feast-pan-medium",
+                        "type": "pizza",
+                        "price": 50
+                    },
+                    {
+                        "id": "margherita-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "corn-&-cheese-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "tandoori-onion-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "veggie-tandoori-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "veggie-feast-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "spiced-paneer-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "double-cheese-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "veggie-lover-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "veg-kebab-surprise-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "tandoori-paneer-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "farmers-pick-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "country-feast-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "chicken-sausage-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "spiced-chicken-meatballs-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "chicken-pepperoni-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "chicken-n-corn-delight-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "double-chicken-sausage-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "margherita-stuffed-crust-veg-kabab-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "corn-&-cheese-stuffed-crust-veg-kabab-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "tandoori-onion-stuffed-crust-veg-kabab-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "veggie-tandoori-stuffed-crust-veg-kabab-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "veggie-feast-stuffed-crust-veg-kabab-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "spiced-paneer-stuffed-crust-veg-kabab-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "double-cheese-stuffed-crust-veg-kabab-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "veggie-lover-stuffed-crust-veg-kabab-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "veg-kebab-surprise-stuffed-crust-veg-kabab-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "tandoori-paneer-stuffed-crust-veg-kabab-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "farmers-pick-stuffed-crust-veg-kabab-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "country-feast-stuffed-crust-veg-kabab-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "chicken-sausage-stuffed-crust-chicken-seekh-kebab-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "spiced-chicken-meatballs-stuffed-crust-chicken-seekh-kebab-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "chicken-pepperoni-stuffed-crust-chicken-seekh-kebab-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "chicken-n-corn-delight-stuffed-crust-chicken-seekh-kebab-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "double-chicken-sausage-stuffed-crust-chicken-seekh-kebab-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "double-paneer-supreme-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 146
+                    },
+                    {
+                        "id": "veg-exotica-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 146
+                    },
+                    {
+                        "id": "veggie-supreme-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 146
+                    },
+                    {
+                        "id": "chicken-pepper-crunch-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 146
+                    },
+                    {
+                        "id": "chicken-tikka-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 146
+                    },
+                    {
+                        "id": "italian-chicken-feast-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 146
+                    },
+                    {
+                        "id": "malai-chicken-tikka-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 146
+                    },
+                    {
+                        "id": "chicken-supreme-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 146
+                    },
+                    {
+                        "id": "chicken-tikka-supreme-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 146
+                    },
+                    {
+                        "id": "triple-chicken-feast-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 146
+                    },
+                    {
+                        "id": "double-paneer-supreme-stuffed-crust-veg-kabab-medium",
+                        "type": "pizza",
+                        "price": 146
+                    },
+                    {
+                        "id": "veg-exotica-stuffed-crust-veg-kabab-medium",
+                        "type": "pizza",
+                        "price": 146
+                    },
+                    {
+                        "id": "veggie-supreme-stuffed-crust-veg-kabab-medium",
+                        "type": "pizza",
+                        "price": 146
+                    },
+                    {
+                        "id": "chicken-pepper-crunch-stuffed-crust-chicken-seekh-kebab-medium",
+                        "type": "pizza",
+                        "price": 146
+                    },
+                    {
+                        "id": "chicken-tikka-stuffed-crust-chicken-seekh-kebab-medium",
+                        "type": "pizza",
+                        "price": 146
+                    },
+                    {
+                        "id": "italian-chicken-feast-stuffed-crust-chicken-seekh-kebab-medium",
+                        "type": "pizza",
+                        "price": 146
+                    },
+                    {
+                        "id": "malai-chicken-tikka-stuffed-crust-chicken-seekh-kebab-medium",
+                        "type": "pizza",
+                        "price": 146
+                    },
+                    {
+                        "id": "chicken-supreme-stuffed-crust-chicken-seekh-kebab-medium",
+                        "type": "pizza",
+                        "price": 146
+                    },
+                    {
+                        "id": "chicken-tikka-supreme-stuffed-crust-chicken-seekh-kebab-medium",
+                        "type": "pizza",
+                        "price": 146
+                    },
+                    {
+                        "id": "triple-chicken-feast-stuffed-crust-chicken-seekh-kebab-medium",
+                        "type": "pizza",
+                        "price": 146
+                    }
+                ],
+                "defaults": []
+            }
+        ],
+        "groupingStyle": "normal",
+        "veg": true,
+        "popular": false,
+        "new": false,
+        "validity": "*"
+    },
+    {
+        "id": "wow-99",
+        "price": 198,
+        "type": "deal",
+        "kind": "pizza-bundle",
+        "popularity": 9,
+        "delivery": true,
+        "collection": true,
+        "hidden": false,
+        "locked": false,
+        "options": [
+            {
+                "type": "pizza",
+                "count": 2,
+                "entities": [
+                    {
+                        "id": "margherita-pan-personal",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "margherita-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "margherita-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 66
+                    },
+                    {
+                        "id": "corn-&-cheese-pan-personal",
+                        "type": "pizza",
+                        "price": 20
+                    },
+                    {
+                        "id": "corn-&-cheese-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 86
+                    },
+                    {
+                        "id": "corn-&-cheese-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 86
+                    },
+                    {
+                        "id": "tandoori-onion-pan-personal",
+                        "type": "pizza",
+                        "price": 20
+                    },
+                    {
+                        "id": "tandoori-onion-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 86
+                    },
+                    {
+                        "id": "tandoori-onion-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 86
+                    },
+                    {
+                        "id": "chicken-sausage-pan-personal",
+                        "type": "pizza",
+                        "price": 20
+                    },
+                    {
+                        "id": "chicken-sausage-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 86
+                    },
+                    {
+                        "id": "chicken-sausage-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 86
+                    },
+                    {
+                        "id": "veggie-feast-pan-personal",
+                        "type": "pizza",
+                        "price": 50
+                    },
+                    {
+                        "id": "veggie-feast-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 116
+                    },
+                    {
+                        "id": "veggie-feast-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 116
+                    },
+                    {
+                        "id": "double-cheese-pan-personal",
+                        "type": "pizza",
+                        "price": 50
+                    },
+                    {
+                        "id": "double-cheese-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 116
+                    },
+                    {
+                        "id": "double-cheese-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 116
+                    },
+                    {
+                        "id": "spiced-paneer-pan-personal",
+                        "type": "pizza",
+                        "price": 50
+                    },
+                    {
+                        "id": "spiced-paneer-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 116
+                    },
+                    {
+                        "id": "spiced-paneer-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 116
+                    },
+                    {
+                        "id": "veggie-tandoori-pan-personal",
+                        "type": "pizza",
+                        "price": 50
+                    },
+                    {
+                        "id": "veggie-tandoori-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 116
+                    },
+                    {
+                        "id": "veggie-tandoori-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 116
+                    },
+                    {
+                        "id": "spiced-chicken-meatballs-pan-personal",
+                        "type": "pizza",
+                        "price": 50
+                    },
+                    {
+                        "id": "spiced-chicken-meatballs-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 116
+                    },
+                    {
+                        "id": "spiced-chicken-meatballs-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 116
+                    },
+                    {
+                        "id": "tandoori-paneer-pan-personal",
+                        "type": "pizza",
+                        "price": 100
+                    },
+                    {
+                        "id": "tandoori-paneer-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 166
+                    },
+                    {
+                        "id": "tandoori-paneer-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 166
+                    },
+                    {
+                        "id": "veggie-lover-pan-personal",
+                        "type": "pizza",
+                        "price": 100
+                    },
+                    {
+                        "id": "veggie-lover-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 166
+                    },
+                    {
+                        "id": "veggie-lover-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 166
+                    },
+                    {
+                        "id": "country-feast-pan-personal",
+                        "type": "pizza",
+                        "price": 100
+                    },
+                    {
+                        "id": "country-feast-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 166
+                    },
+                    {
+                        "id": "country-feast-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 166
+                    },
+                    {
+                        "id": "farmers-pick-pan-personal",
+                        "type": "pizza",
+                        "price": 100
+                    },
+                    {
+                        "id": "farmers-pick-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 166
+                    },
+                    {
+                        "id": "farmers-pick-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 166
+                    },
+                    {
+                        "id": "veg-kebab-surprise-pan-personal",
+                        "type": "pizza",
+                        "price": 100
+                    },
+                    {
+                        "id": "veg-kebab-surprise-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 166
+                    },
+                    {
+                        "id": "veg-kebab-surprise-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 166
+                    },
+                    {
+                        "id": "chicken-pepperoni-pan-personal",
+                        "type": "pizza",
+                        "price": 100
+                    },
+                    {
+                        "id": "chicken-pepperoni-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 166
+                    },
+                    {
+                        "id": "chicken-pepperoni-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 166
+                    },
+                    {
+                        "id": "chicken-n-corn-delight-pan-personal",
+                        "type": "pizza",
+                        "price": 100
+                    },
+                    {
+                        "id": "chicken-n-corn-delight-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 166
+                    },
+                    {
+                        "id": "chicken-n-corn-delight-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 166
+                    },
+                    {
+                        "id": "double-chicken-sausage-pan-personal",
+                        "type": "pizza",
+                        "price": 100
+                    },
+                    {
+                        "id": "double-chicken-sausage-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 166
+                    },
+                    {
+                        "id": "double-chicken-sausage-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 166
+                    },
+                    {
+                        "id": "veg-exotica-pan-personal",
+                        "type": "pizza",
+                        "price": 150
+                    },
+                    {
+                        "id": "veg-exotica-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 216
+                    },
+                    {
+                        "id": "veg-exotica-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 216
+                    },
+                    {
+                        "id": "veggie-supreme-pan-personal",
+                        "type": "pizza",
+                        "price": 150
+                    },
+                    {
+                        "id": "veggie-supreme-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 216
+                    },
+                    {
+                        "id": "veggie-supreme-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 216
+                    },
+                    {
+                        "id": "double-paneer-supreme-pan-personal",
+                        "type": "pizza",
+                        "price": 150
+                    },
+                    {
+                        "id": "double-paneer-supreme-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 216
+                    },
+                    {
+                        "id": "double-paneer-supreme-stuffed-crust-veg-kabab-personal",
+                        "type": "pizza",
+                        "price": 216
+                    },
+                    {
+                        "id": "chicken-pepper-crunch-pan-personal",
+                        "type": "pizza",
+                        "price": 150
+                    },
+                    {
+                        "id": "chicken-pepper-crunch-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 216
+                    },
+                    {
+                        "id": "chicken-pepper-crunch-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 216
+                    },
+                    {
+                        "id": "chicken-tikka-pan-personal",
+                        "type": "pizza",
+                        "price": 150
+                    },
+                    {
+                        "id": "chicken-tikka-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 216
+                    },
+                    {
+                        "id": "chicken-tikka-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 216
+                    },
+                    {
+                        "id": "italian-chicken-feast-pan-personal",
+                        "type": "pizza",
+                        "price": 150
+                    },
+                    {
+                        "id": "italian-chicken-feast-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 216
+                    },
+                    {
+                        "id": "italian-chicken-feast-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 216
+                    },
+                    {
+                        "id": "malai-chicken-tikka-pan-personal",
+                        "type": "pizza",
+                        "price": 150
+                    },
+                    {
+                        "id": "malai-chicken-tikka-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 216
+                    },
+                    {
+                        "id": "malai-chicken-tikka-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 216
+                    },
+                    {
+                        "id": "chicken-supreme-pan-personal",
+                        "type": "pizza",
+                        "price": 200
+                    },
+                    {
+                        "id": "chicken-supreme-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 266
+                    },
+                    {
+                        "id": "chicken-supreme-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 266
+                    },
+                    {
+                        "id": "chicken-tikka-supreme-pan-personal",
+                        "type": "pizza",
+                        "price": 200
+                    },
+                    {
+                        "id": "chicken-tikka-supreme-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 266
+                    },
+                    {
+                        "id": "chicken-tikka-supreme-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 266
+                    },
+                    {
+                        "id": "triple-chicken-feast-pan-personal",
+                        "type": "pizza",
+                        "price": 200
+                    },
+                    {
+                        "id": "triple-chicken-feast-stuffed-crust-cheese-max-personal",
+                        "type": "pizza",
+                        "price": 266
+                    },
+                    {
+                        "id": "triple-chicken-feast-stuffed-crust-chicken-seekh-kebab-personal",
+                        "type": "pizza",
+                        "price": 266
+                    }
+                ],
+                "defaults": []
+            }
+        ],
+        "groupingStyle": "normal",
+        "veg": true,
+        "popular": false,
+        "new": false,
+        "validity": "*"
+    },
+    {
+        "id": "wow-199",
+        "price": 398,
+        "type": "deal",
+        "kind": "pizza-bundle",
+        "popularity": 24,
+        "delivery": true,
+        "collection": true,
+        "hidden": false,
+        "locked": false,
+        "options": [
+            {
+                "type": "pizza",
+                "count": 2,
+                "entities": [
+                    {
+                        "id": "margherita-pan-medium",
+                        "type": "pizza",
+                        "price": 0
+                    },
+                    {
+                        "id": "margherita-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "margherita-stuffed-crust-veg-kabab-medium",
+                        "type": "pizza",
+                        "price": 96
+                    },
+                    {
+                        "id": "corn-&-cheese-pan-medium",
+                        "type": "pizza",
+                        "price": 30
+                    },
+                    {
+                        "id": "corn-&-cheese-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 126
+                    },
+                    {
+                        "id": "corn-&-cheese-stuffed-crust-veg-kabab-medium",
+                        "type": "pizza",
+                        "price": 126
+                    },
+                    {
+                        "id": "tandoori-onion-pan-medium",
+                        "type": "pizza",
+                        "price": 30
+                    },
+                    {
+                        "id": "tandoori-onion-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 126
+                    },
+                    {
+                        "id": "tandoori-onion-stuffed-crust-veg-kabab-medium",
+                        "type": "pizza",
+                        "price": 126
+                    },
+                    {
+                        "id": "chicken-sausage-pan-medium",
+                        "type": "pizza",
+                        "price": 30
+                    },
+                    {
+                        "id": "chicken-sausage-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 126
+                    },
+                    {
+                        "id": "chicken-sausage-stuffed-crust-chicken-seekh-kebab-medium",
+                        "type": "pizza",
+                        "price": 126
+                    },
+                    {
+                        "id": "veggie-feast-pan-medium",
+                        "type": "pizza",
+                        "price": 60
+                    },
+                    {
+                        "id": "veggie-feast-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 156
+                    },
+                    {
+                        "id": "veggie-feast-stuffed-crust-veg-kabab-medium",
+                        "type": "pizza",
+                        "price": 156
+                    },
+                    {
+                        "id": "double-cheese-pan-medium",
+                        "type": "pizza",
+                        "price": 60
+                    },
+                    {
+                        "id": "double-cheese-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 156
+                    },
+                    {
+                        "id": "double-cheese-stuffed-crust-veg-kabab-medium",
+                        "type": "pizza",
+                        "price": 156
+                    },
+                    {
+                        "id": "spiced-paneer-pan-medium",
+                        "type": "pizza",
+                        "price": 60
+                    },
+                    {
+                        "id": "spiced-paneer-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 156
+                    },
+                    {
+                        "id": "spiced-paneer-stuffed-crust-veg-kabab-medium",
+                        "type": "pizza",
+                        "price": 156
+                    },
+                    {
+                        "id": "veggie-tandoori-pan-medium",
+                        "type": "pizza",
+                        "price": 60
+                    },
+                    {
+                        "id": "veggie-tandoori-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 156
+                    },
+                    {
+                        "id": "veggie-tandoori-stuffed-crust-veg-kabab-medium",
+                        "type": "pizza",
+                        "price": 156
+                    },
+                    {
+                        "id": "spiced-chicken-meatballs-pan-medium",
+                        "type": "pizza",
+                        "price": 60
+                    },
+                    {
+                        "id": "spiced-chicken-meatballs-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 156
+                    },
+                    {
+                        "id": "spiced-chicken-meatballs-stuffed-crust-chicken-seekh-kebab-medium",
+                        "type": "pizza",
+                        "price": 156
+                    },
+                    {
+                        "id": "tandoori-paneer-pan-medium",
+                        "type": "pizza",
+                        "price": 130
+                    },
+                    {
+                        "id": "tandoori-paneer-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 226
+                    },
+                    {
+                        "id": "tandoori-paneer-stuffed-crust-veg-kabab-medium",
+                        "type": "pizza",
+                        "price": 226
+                    },
+                    {
+                        "id": "veggie-lover-pan-medium",
+                        "type": "pizza",
+                        "price": 130
+                    },
+                    {
+                        "id": "veggie-lover-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 226
+                    },
+                    {
+                        "id": "veggie-lover-stuffed-crust-veg-kabab-medium",
+                        "type": "pizza",
+                        "price": 226
+                    },
+                    {
+                        "id": "country-feast-pan-medium",
+                        "type": "pizza",
+                        "price": 130
+                    },
+                    {
+                        "id": "country-feast-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 226
+                    },
+                    {
+                        "id": "country-feast-stuffed-crust-veg-kabab-medium",
+                        "type": "pizza",
+                        "price": 226
+                    },
+                    {
+                        "id": "farmers-pick-pan-medium",
+                        "type": "pizza",
+                        "price": 130
+                    },
+                    {
+                        "id": "farmers-pick-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 226
+                    },
+                    {
+                        "id": "farmers-pick-stuffed-crust-veg-kabab-medium",
+                        "type": "pizza",
+                        "price": 226
+                    },
+                    {
+                        "id": "veg-kebab-surprise-pan-medium",
+                        "type": "pizza",
+                        "price": 130
+                    },
+                    {
+                        "id": "veg-kebab-surprise-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 226
+                    },
+                    {
+                        "id": "veg-kebab-surprise-stuffed-crust-veg-kabab-medium",
+                        "type": "pizza",
+                        "price": 226
+                    },
+                    {
+                        "id": "chicken-pepperoni-pan-medium",
+                        "type": "pizza",
+                        "price": 130
+                    },
+                    {
+                        "id": "chicken-pepperoni-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 226
+                    },
+                    {
+                        "id": "chicken-pepperoni-stuffed-crust-chicken-seekh-kebab-medium",
+                        "type": "pizza",
+                        "price": 226
+                    },
+                    {
+                        "id": "chicken-n-corn-delight-pan-medium",
+                        "type": "pizza",
+                        "price": 130
+                    },
+                    {
+                        "id": "chicken-n-corn-delight-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 226
+                    },
+                    {
+                        "id": "chicken-n-corn-delight-stuffed-crust-chicken-seekh-kebab-medium",
+                        "type": "pizza",
+                        "price": 226
+                    },
+                    {
+                        "id": "double-chicken-sausage-pan-medium",
+                        "type": "pizza",
+                        "price": 130
+                    },
+                    {
+                        "id": "double-chicken-sausage-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 226
+                    },
+                    {
+                        "id": "double-chicken-sausage-stuffed-crust-chicken-seekh-kebab-medium",
+                        "type": "pizza",
+                        "price": 226
+                    },
+                    {
+                        "id": "veg-exotica-pan-medium",
+                        "type": "pizza",
+                        "price": 200
+                    },
+                    {
+                        "id": "veg-exotica-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 296
+                    },
+                    {
+                        "id": "veg-exotica-stuffed-crust-veg-kabab-medium",
+                        "type": "pizza",
+                        "price": 296
+                    },
+                    {
+                        "id": "veggie-supreme-pan-medium",
+                        "type": "pizza",
+                        "price": 200
+                    },
+                    {
+                        "id": "veggie-supreme-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 296
+                    },
+                    {
+                        "id": "veggie-supreme-stuffed-crust-veg-kabab-medium",
+                        "type": "pizza",
+                        "price": 296
+                    },
+                    {
+                        "id": "double-paneer-supreme-pan-medium",
+                        "type": "pizza",
+                        "price": 200
+                    },
+                    {
+                        "id": "double-paneer-supreme-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 296
+                    },
+                    {
+                        "id": "double-paneer-supreme-stuffed-crust-veg-kabab-medium",
+                        "type": "pizza",
+                        "price": 296
+                    },
+                    {
+                        "id": "chicken-pepper-crunch-pan-medium",
+                        "type": "pizza",
+                        "price": 200
+                    },
+                    {
+                        "id": "chicken-pepper-crunch-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 296
+                    },
+                    {
+                        "id": "chicken-pepper-crunch-stuffed-crust-chicken-seekh-kebab-medium",
+                        "type": "pizza",
+                        "price": 296
+                    },
+                    {
+                        "id": "chicken-tikka-pan-medium",
+                        "type": "pizza",
+                        "price": 200
+                    },
+                    {
+                        "id": "chicken-tikka-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 296
+                    },
+                    {
+                        "id": "chicken-tikka-stuffed-crust-chicken-seekh-kebab-medium",
+                        "type": "pizza",
+                        "price": 296
+                    },
+                    {
+                        "id": "italian-chicken-feast-pan-medium",
+                        "type": "pizza",
+                        "price": 200
+                    },
+                    {
+                        "id": "italian-chicken-feast-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 296
+                    },
+                    {
+                        "id": "italian-chicken-feast-stuffed-crust-chicken-seekh-kebab-medium",
+                        "type": "pizza",
+                        "price": 296
+                    },
+                    {
+                        "id": "malai-chicken-tikka-pan-medium",
+                        "type": "pizza",
+                        "price": 200
+                    },
+                    {
+                        "id": "malai-chicken-tikka-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 296
+                    },
+                    {
+                        "id": "malai-chicken-tikka-stuffed-crust-chicken-seekh-kebab-medium",
+                        "type": "pizza",
+                        "price": 296
+                    },
+                    {
+                        "id": "chicken-supreme-pan-medium",
+                        "type": "pizza",
+                        "price": 250
+                    },
+                    {
+                        "id": "chicken-supreme-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 346
+                    },
+                    {
+                        "id": "chicken-supreme-stuffed-crust-chicken-seekh-kebab-medium",
+                        "type": "pizza",
+                        "price": 346
+                    },
+                    {
+                        "id": "chicken-tikka-supreme-pan-medium",
+                        "type": "pizza",
+                        "price": 250
+                    },
+                    {
+                        "id": "chicken-tikka-supreme-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 346
+                    },
+                    {
+                        "id": "chicken-tikka-supreme-stuffed-crust-chicken-seekh-kebab-medium",
+                        "type": "pizza",
+                        "price": 346
+                    },
+                    {
+                        "id": "triple-chicken-feast-pan-medium",
+                        "type": "pizza",
+                        "price": 250
+                    },
+                    {
+                        "id": "triple-chicken-feast-stuffed-crust-cheese-max-medium",
+                        "type": "pizza",
+                        "price": 346
+                    },
+                    {
+                        "id": "triple-chicken-feast-stuffed-crust-chicken-seekh-kebab-medium",
+                        "type": "pizza",
+                        "price": 346
+                    }
+                ],
+                "defaults": []
+            }
+        ],
+        "groupingStyle": "normal",
+        "veg": true,
+        "popular": false,
+        "new": false,
+        "validity": "*"
+    }
+]

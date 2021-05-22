@@ -1,0 +1,1135 @@
+[
+    {
+        "id": "double-paneer-supreme-pan-medium",
+        "price": 569,
+        "popularity": 32,
+        "crustPopularity": 2,
+        "sizePopularity": 1,
+        "crust": "pan",
+        "size": "medium",
+        "type": "pizza",
+        "kind": "double-paneer-supreme",
+        "halvable": false,
+        "spice": 1,
+        "veg": true,
+        "glutenFree": false,
+        "collection": true,
+        "delivery": true,
+        "customisable": true,
+        "popular": false,
+        "new": true,
+        "dealOnly": false,
+        "defaults": {
+            "cheese": [],
+            "sauce": [],
+            "topping": []
+        },
+        "selectedQty": 1,
+        "options": [
+            {
+                "type": "topping",
+                "defaults": [
+                    {
+                        "id": "paneer-medium",
+                        "type": "topping",
+                        "price": 0
+                    },
+                    {
+                        "id": "herbed-veggies-medium",
+                        "type": "topping",
+                        "price": 0
+                    },
+                    {
+                        "id": "red-paprika-medium",
+                        "type": "topping",
+                        "price": 0
+                    }
+                ],
+                "entities": [
+                    {
+                        "id": "baby-corn-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "black-olives-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "cheese-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "green-capsicum-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "herbed-veggies-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "jalapeno-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "paneer-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "mushroom-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "onion-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "red-capsicum-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "red-paprika-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "sweet-corn-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "tomato-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "veg-kebab-medium",
+                        "type": "topping",
+                        "price": 70
+                    }
+                ],
+                "min": 2,
+                "max": 5,
+                "repeats": 2,
+                "maxRemovals": 1,
+                "free": {
+                    "swaps": 0,
+                    "additions": 0
+                }
+            }
+        ],
+        "discountableInDeal": true,
+        "category": "supreme"
+    },
+    {
+        "id": "italian-chicken-feast-stuffed-crust-chicken-seekh-kebab-personal",
+        "price": 395,
+        "popularity": 30,
+        "crustPopularity": 4,
+        "sizePopularity": 2,
+        "crust": "stuffed-crust-chicken-seekh-kebab",
+        "size": "personal",
+        "type": "pizza",
+        "kind": "italian-chicken-feast",
+        "halvable": false,
+        "spice": 1,
+        "veg": false,
+        "glutenFree": false,
+        "collection": true,
+        "delivery": true,
+        "customisable": true,
+        "popular": false,
+        "new": true,
+        "dealOnly": false,
+        "defaults": {
+            "cheese": [],
+            "sauce": [],
+            "topping": []
+        },
+        "selectedQty": 1,
+        "options": [
+            {
+                "type": "topping",
+                "defaults": [
+                    {
+                        "id": "chicken-sausage-personal",
+                        "type": "topping",
+                        "price": 0
+                    },
+                    {
+                        "id": "chicken-pepperoni-personal",
+                        "type": "topping",
+                        "price": 0
+                    },
+                    {
+                        "id": "sweet-corn-personal",
+                        "type": "topping",
+                        "price": 0
+                    },
+                    {
+                        "id": "black-olives-personal",
+                        "type": "topping",
+                        "price": 0
+                    },
+                    {
+                        "id": "jalapeno-personal",
+                        "type": "topping",
+                        "price": 0
+                    }
+                ],
+                "entities": [
+                    {
+                        "id": "baby-corn-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "black-olives-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "cheese-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "green-capsicum-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "herbed-veggies-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "jalapeno-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "paneer-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "mushroom-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "onion-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "red-capsicum-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "red-paprika-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "sweet-corn-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "tomato-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "veg-kebab-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "chicken-malai-tikka-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "chicken-pepperoni-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "chicken-sausage-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "chicken-tikka-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "herbed-chicken-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "schezwan-chicken-meat-ball-personal",
+                        "type": "topping",
+                        "price": 50
+                    }
+                ],
+                "min": 4,
+                "max": 7,
+                "repeats": 2,
+                "maxRemovals": 1,
+                "free": {
+                    "swaps": 0,
+                    "additions": 0
+                }
+            }
+        ],
+        "discountableInDeal": true,
+        "category": "signature"
+    },
+    {
+        "id": "chicken-pepper-crunch-stuffed-crust-chicken-seekh-kebab-medium",
+        "price": 665,
+        "popularity": 28,
+        "crustPopularity": 4,
+        "sizePopularity": 1,
+        "crust": "stuffed-crust-chicken-seekh-kebab",
+        "size": "medium",
+        "type": "pizza",
+        "kind": "chicken-pepper-crunch",
+        "halvable": false,
+        "spice": 0,
+        "veg": false,
+        "glutenFree": false,
+        "collection": true,
+        "delivery": true,
+        "customisable": true,
+        "popular": false,
+        "new": true,
+        "dealOnly": false,
+        "defaults": {
+            "cheese": [],
+            "sauce": [],
+            "topping": []
+        },
+        "selectedQty": 1,
+        "options": [
+            {
+                "type": "topping",
+                "defaults": [
+                    {
+                        "id": "herbed-chicken-medium",
+                        "type": "topping",
+                        "price": 0
+                    },
+                    {
+                        "id": "onion-medium",
+                        "type": "topping",
+                        "price": 0
+                    },
+                    {
+                        "id": "green-capsicum-medium",
+                        "type": "topping",
+                        "price": 0
+                    },
+                    {
+                        "id": "red-capsicum-medium",
+                        "type": "topping",
+                        "price": 0
+                    }
+                ],
+                "entities": [
+                    {
+                        "id": "baby-corn-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "black-olives-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "cheese-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "green-capsicum-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "herbed-veggies-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "jalapeno-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "paneer-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "mushroom-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "onion-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "red-capsicum-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "red-paprika-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "sweet-corn-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "tomato-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "veg-kebab-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "chicken-malai-tikka-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "chicken-pepperoni-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "chicken-sausage-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "chicken-tikka-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "herbed-chicken-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "schezwan-chicken-meat-ball-medium",
+                        "type": "topping",
+                        "price": 70
+                    }
+                ],
+                "min": 3,
+                "max": 6,
+                "repeats": 2,
+                "maxRemovals": 1,
+                "free": {
+                    "swaps": 0,
+                    "additions": 0
+                }
+            }
+        ],
+        "discountableInDeal": true,
+        "category": "signature"
+    },
+    {
+        "id": "double-cheese-stuffed-crust-cheese-max-personal",
+        "price": 265,
+        "popularity": 16,
+        "crustPopularity": 3,
+        "sizePopularity": 2,
+        "crust": "stuffed-crust-cheese-max",
+        "size": "personal",
+        "type": "pizza",
+        "kind": "double-cheese",
+        "halvable": false,
+        "spice": 0,
+        "veg": true,
+        "glutenFree": false,
+        "collection": true,
+        "delivery": true,
+        "customisable": true,
+        "popular": false,
+        "new": false,
+        "dealOnly": false,
+        "defaults": {
+            "cheese": [],
+            "sauce": [],
+            "topping": []
+        },
+        "selectedQty": 1,
+        "options": [
+            {
+                "type": "topping",
+                "defaults": [
+                    {
+                        "id": "cheese-personal",
+                        "type": "topping",
+                        "price": 0
+                    }
+                ],
+                "entities": [
+                    {
+                        "id": "baby-corn-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "black-olives-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "cheese-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "green-capsicum-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "herbed-veggies-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "jalapeno-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "paneer-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "mushroom-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "onion-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "red-capsicum-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "red-paprika-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "sweet-corn-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "tomato-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "veg-kebab-personal",
+                        "type": "topping",
+                        "price": 50
+                    }
+                ],
+                "min": 1,
+                "max": 3,
+                "repeats": 2,
+                "maxRemovals": 0,
+                "free": {
+                    "swaps": 0,
+                    "additions": 0
+                }
+            }
+        ],
+        "discountableInDeal": true,
+        "category": "delight"
+    },
+    {
+        "id": "veggie-tandoori-pan-personal",
+        "price": 199,
+        "popularity": 19,
+        "crustPopularity": 2,
+        "sizePopularity": 2,
+        "crust": "pan",
+        "size": "personal",
+        "type": "pizza",
+        "kind": "veggie-tandoori",
+        "halvable": false,
+        "spice": 0,
+        "veg": true,
+        "glutenFree": false,
+        "collection": true,
+        "delivery": true,
+        "customisable": true,
+        "popular": false,
+        "new": true,
+        "dealOnly": false,
+        "defaults": {
+            "cheese": [],
+            "sauce": [],
+            "topping": []
+        },
+        "selectedQty": 1,
+        "options": [
+            {
+                "type": "topping",
+                "defaults": [
+                    {
+                        "id": "onion-personal",
+                        "type": "topping",
+                        "price": 0
+                    },
+                    {
+                        "id": "green-capsicum-personal",
+                        "type": "topping",
+                        "price": 0
+                    },
+                    {
+                        "id": "mushroom-personal",
+                        "type": "topping",
+                        "price": 0
+                    }
+                ],
+                "entities": [
+                    {
+                        "id": "baby-corn-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "black-olives-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "cheese-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "green-capsicum-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "herbed-veggies-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "jalapeno-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "paneer-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "mushroom-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "onion-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "red-capsicum-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "red-paprika-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "sweet-corn-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "tomato-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "veg-kebab-personal",
+                        "type": "topping",
+                        "price": 50
+                    }
+                ],
+                "min": 2,
+                "max": 5,
+                "repeats": 2,
+                "maxRemovals": 1,
+                "free": {
+                    "swaps": 0,
+                    "additions": 0
+                }
+            }
+        ],
+        "discountableInDeal": true,
+        "category": "delight"
+    },
+    {
+        "id": "spiced-paneer-pan-personal",
+        "price": 199,
+        "popularity": 17,
+        "crustPopularity": 2,
+        "sizePopularity": 2,
+        "crust": "pan",
+        "size": "personal",
+        "type": "pizza",
+        "kind": "spiced-paneer",
+        "halvable": false,
+        "spice": 0,
+        "veg": true,
+        "glutenFree": false,
+        "collection": true,
+        "delivery": true,
+        "customisable": true,
+        "popular": false,
+        "new": false,
+        "dealOnly": false,
+        "defaults": {
+            "cheese": [],
+            "sauce": [],
+            "topping": []
+        },
+        "selectedQty": 1,
+        "options": [
+            {
+                "type": "topping",
+                "defaults": [
+                    {
+                        "id": "paneer-personal",
+                        "type": "topping",
+                        "price": 0
+                    },
+                    {
+                        "id": "onion-personal",
+                        "type": "topping",
+                        "price": 0
+                    },
+                    {
+                        "id": "tomato-personal",
+                        "type": "topping",
+                        "price": 0
+                    }
+                ],
+                "entities": [
+                    {
+                        "id": "baby-corn-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "black-olives-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "cheese-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "green-capsicum-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "herbed-veggies-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "jalapeno-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "paneer-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "mushroom-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "onion-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "red-capsicum-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "red-paprika-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "sweet-corn-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "tomato-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "veg-kebab-personal",
+                        "type": "topping",
+                        "price": 50
+                    }
+                ],
+                "min": 2,
+                "max": 5,
+                "repeats": 2,
+                "maxRemovals": 1,
+                "free": {
+                    "swaps": 0,
+                    "additions": 0
+                }
+            }
+        ],
+        "discountableInDeal": true,
+        "category": "delight"
+    },
+    {
+        "id": "veggie-feast-stuffed-crust-cheese-max-personal",
+        "price": 265,
+        "popularity": 18,
+        "crustPopularity": 3,
+        "sizePopularity": 2,
+        "crust": "stuffed-crust-cheese-max",
+        "size": "personal",
+        "type": "pizza",
+        "kind": "veggie-feast",
+        "halvable": false,
+        "spice": 0,
+        "veg": true,
+        "glutenFree": false,
+        "collection": true,
+        "delivery": true,
+        "customisable": true,
+        "popular": true,
+        "new": false,
+        "dealOnly": false,
+        "defaults": {
+            "cheese": [],
+            "sauce": [],
+            "topping": []
+        },
+        "selectedQty": 1,
+        "options": [
+            {
+                "type": "topping",
+                "defaults": [
+                    {
+                        "id": "herbed-veggies-personal",
+                        "type": "topping",
+                        "price": 0
+                    },
+                    {
+                        "id": "sweet-corn-personal",
+                        "type": "topping",
+                        "price": 0
+                    }
+                ],
+                "entities": [
+                    {
+                        "id": "baby-corn-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "black-olives-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "cheese-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "green-capsicum-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "herbed-veggies-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "jalapeno-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "paneer-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "mushroom-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "onion-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "red-capsicum-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "red-paprika-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "sweet-corn-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "tomato-personal",
+                        "type": "topping",
+                        "price": 50
+                    },
+                    {
+                        "id": "veg-kebab-personal",
+                        "type": "topping",
+                        "price": 50
+                    }
+                ],
+                "min": 1,
+                "max": 4,
+                "repeats": 2,
+                "maxRemovals": 1,
+                "free": {
+                    "swaps": 0,
+                    "additions": 0
+                }
+            }
+        ],
+        "discountableInDeal": true,
+        "category": "delight"
+    },
+    {
+        "id": "chicken-pepperoni-stuffed-crust-cheese-max-medium",
+        "price": 625,
+        "popularity": 21,
+        "crustPopularity": 3,
+        "sizePopularity": 1,
+        "crust": "stuffed-crust-cheese-max",
+        "size": "medium",
+        "type": "pizza",
+        "kind": "chicken-pepperoni",
+        "halvable": false,
+        "spice": 0,
+        "veg": false,
+        "glutenFree": false,
+        "collection": true,
+        "delivery": true,
+        "customisable": true,
+        "popular": true,
+        "new": false,
+        "dealOnly": false,
+        "defaults": {
+            "cheese": [],
+            "sauce": [],
+            "topping": []
+        },
+        "selectedQty": 1,
+        "options": [
+            {
+                "type": "topping",
+                "defaults": [
+                    {
+                        "id": "cheese-medium",
+                        "type": "topping",
+                        "price": 0
+                    },
+                    {
+                        "id": "chicken-pepperoni-medium",
+                        "type": "topping",
+                        "price": 0
+                    }
+                ],
+                "entities": [
+                    {
+                        "id": "baby-corn-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "black-olives-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "cheese-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "green-capsicum-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "herbed-veggies-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "jalapeno-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "paneer-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "mushroom-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "onion-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "red-capsicum-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "red-paprika-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "sweet-corn-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "tomato-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "veg-kebab-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "chicken-malai-tikka-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "chicken-pepperoni-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "chicken-sausage-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "chicken-tikka-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "herbed-chicken-medium",
+                        "type": "topping",
+                        "price": 70
+                    },
+                    {
+                        "id": "schezwan-chicken-meat-ball-medium",
+                        "type": "topping",
+                        "price": 70
+                    }
+                ],
+                "min": 2,
+                "max": 4,
+                "repeats": 2,
+                "maxRemovals": 0,
+                "free": {
+                    "swaps": 0,
+                    "additions": 0
+                }
+            }
+        ],
+        "discountableInDeal": true,
+        "category": "delight"
+    }
+]
