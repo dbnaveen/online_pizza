@@ -9,6 +9,7 @@ https://dbnaveen.github.io/online_pizza/#/store
 ## Application Info
 
 > This application is build using Angular `v12.0.1`
+
 > `Angular Material` as the UI component library
 > CSS are written `SCSS1 pre-processor
 
