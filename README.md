@@ -6,6 +6,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 https://dbnaveen.github.io/online_pizza/#/store
 
+## Application Info
+
+> This application is build using Angular `v12.0.1`
+> `Angular Material` as the UI component library
+> CSS are written `SCSS1 pre-processor
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
