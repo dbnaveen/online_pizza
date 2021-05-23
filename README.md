@@ -16,12 +16,12 @@ https://dbnaveen.github.io/online_pizza/#/store
 
 ## List of all commands used in the application
 
-* ng new star-wars --style=scss
+* ng new online_pizza --style=scss
     * Allow strict “Y”
     * Create angular routing “Y”
 * Generate fav icon and add the new fav icon
     * Need to define the new favicon in the angular.json file
-    * Fav icon with folder was not working
+    * ~~Fav icon with folder was not working~~
 * npm install --save bootstrap jquery popper.js
 * ng g component components/app-header
 * npm install --save @angular/material @angular/cdk @angular/animations
@@ -30,6 +30,7 @@ https://dbnaveen.github.io/online_pizza/#/store
 * ng g component components/app-pizzas
 
 If you get a error with angular-material: run below commands
+
 * sudo npm install -g @angular/cli@latest
 * sudo ng update @angular/cli @angular-devkit/build-angular 
 * sudo ng update @angular/core @angular/cdk @angular/material
