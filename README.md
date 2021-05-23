@@ -5,6 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Application URL
 
 https://dbnaveen.github.io/online_pizza/#/store
+[go](https://dbnaveen.github.io/online_pizza/#/store){:target="_blank"}.
 
 ## Development server
 
