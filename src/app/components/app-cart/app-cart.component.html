@@ -55,12 +55,13 @@
         </div>
 
         <div class="cart-content-body" *ngIf="products.length > 0">
-            <div class="row">
+
+            <!-- <div class="row">
                 <div class="col-sm-12 cart-each-prod" *ngFor="let product of products; let i = index">
                     <div class="col-sm-2 class cart-img">
                         <img [src]="product.img" alt="Bg-Image">
                     </div>
-                    <div class="col-sm-9">
+                    <div class="col-sm-8">
                         <div class="row">
                             <div class="col-sm-12 cart-prod-name">
                                 {{product.title}}
@@ -82,30 +83,44 @@
                         </svg>
                     </div>
                 </div>
+            </div> -->
+
+            <div class="row cart-each-prod" *ngFor="let product of products; let i = index">
+                <div class="col-2 cart-img">
+                    <img [src]="product.img" alt="Bg-Image">
+                </div>
+                <div class="col-8">
+                    <div class="row ">
+                        <div class="col-12 cart-prod-name"> {{product.title}} </div>
+                        <div class="col-4 cart-prod-price">&#8377; {{product.price}}</div>
+                        <div class="col-4 cart-prod-qnty">
+                            <span>Qty:</span> <span> {{product.quantity}} </span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-2 cancel-prod-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="18px"
+                        fill="#666666" matTooltip="Remove Item" (click)="cancelItem(product, i)">
+                        <path d="M0 0h24v24H0z" fill="none" />
+                        <path
+                            d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm5 13.59L15.59 17 12 13.41 8.41 17 7 15.59 10.59 12 7 8.41 8.41 7 12 10.59 15.59 7 17 8.41 13.41 12 17 15.59z" />
+                    </svg>
+                </div>
             </div>
+
         </div>
+
         <div class="cart-content-footer" *ngIf="products.length > 0">
             <div class="row cart-item-total">
-                <div class="col-sm-6 pb-2">
-                    Item Total
-                </div>
-                <div class="col-sm-6 pb-2 cart-item-price">
-                    &#8377; {{totalPrice}}
-                </div>
-                <div class="col-sm-6 pb-2">
-                    Taxes and Charges
-                </div>
-                <div class="col-sm-6 pb-2">
-                    &#8377; 29
-                </div>
+                <div class="col-6 pb-2">Item Total</div>
+                <div class="col-6 pb-2">&#8377; {{totalPrice}}</div>
+                <div class="col-6 pb-2">Taxes and Charges</div>
+                <div class="col-6 pb-2">&#8377; 29</div>
             </div>
+
             <div class="row cart-item-final">
-                <div class="col-sm-6">
-                    Grand Total
-                </div>
-                <div class="col-sm-6">
-                    &#8377; {{grandTotal}}
-                </div>
+                <div class="col-6">Grand Total</div>
+                <div class="col-6 pb-2">&#8377; {{grandTotal}}</div>
             </div>
         </div>
 

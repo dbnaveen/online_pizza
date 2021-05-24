@@ -31,7 +31,7 @@
         &-body {
             height: calc(100% - 65px - 150px);
             overflow: auto;
-            padding: 2rem 1.5rem;
+            padding: 2rem 1.5rem 1rem 1.9rem;
         }
         .cart-each-prod {
             display: flex;
@@ -39,6 +39,7 @@
         }
         .cart-prod-name {
             color: #2B2B2B;
+            color: #656565;
             font-weight: 500;
             padding-bottom: 5px;
         }
@@ -67,14 +68,15 @@
         }
         .cancel-prod-icon {
             display: flex;
-            align-items: center;
+            justify-content: space-evenly;
 
             svg {
                 cursor: pointer;
             }
         }
         .cart-item-total {
-            display: flex;
+            margin: 0 !important;
+            color: #656565;
 
             div:nth-child(even) {
                 display: flex;
@@ -89,7 +91,7 @@
             align-items: center;
             padding: 15px 0px;
             border-radius: 5px;  
-            // margin: 0;
+            margin: 0;
             font-weight: 700;          
 
             div:nth-child(even) {
