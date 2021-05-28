@@ -53,6 +53,16 @@ Implement Interceptors:
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+## Deployment to Github Page
+
+* ng build --prod --output-path docs --base-href /online_pizza/
+* It creates a docs folder
+* Goto docs folder, copy index.html and paste it there and rename it as 404.html
+* Push the docs folder to Github
+* Now, go to your repository in Github
+* Click on settings, scroll to bottom, under "GitHub Pages" click on "Check it out here!"
+* The new link to our application will be created
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
