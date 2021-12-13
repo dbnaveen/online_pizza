@@ -6,7 +6,8 @@
                 <div class="col-sm-12 col-md-6 col-lg-4" *ngFor="let data of priceData">
                     <mat-card>
                         <div>
-                            <img mat-card-image [src]="globalData[ data['id'] ]['img']" alt="Bg-Image">
+                            <!-- <img mat-card-image [src]="globalData[ data['id'] ]['img']" alt="Bg-Image"> -->
+                            <img mat-card-image src='assets/pizza/{{data.id}}.jpg' alt="Background-Image">
                             <mat-card-content>
                                 <p class="card-name" [ngClass]="data['veg'] === true ? 'card-veg' : 'card-nonveg'">
                                     {{ globalData[ data['id'] ]['title'] }} &nbsp;
