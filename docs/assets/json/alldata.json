@@ -2314,7 +2314,7 @@
         "desc": "Masala Paneer, Onion, Tomato",
         "size": "Medium",
         "crust": "Pan",
-        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.fc7440f47b09623563e03a8408749bef.1.jpg",
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.e577e25023a1baeb72b6381bf6692a73.1.jpg",
         "imgPortrait": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.8f08ca5d790eb17269fc15c3eacd2cf4.1.jpg"
     },
     "spiced-paneer-pan-personal": {
@@ -2324,7 +2324,7 @@
         "desc": "Masala Paneer, Onion, Tomato",
         "size": "Personal",
         "crust": "Pan",
-        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.fc7440f47b09623563e03a8408749bef.1.jpg",
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.e577e25023a1baeb72b6381bf6692a73.1.jpg",
         "imgPortrait": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.8f08ca5d790eb17269fc15c3eacd2cf4.1.jpg"
     },
     "spiced-paneer-stuffed-crust-cheese-max-medium": {
@@ -2334,7 +2334,7 @@
         "desc": "Masala Paneer, Onion, Tomato",
         "size": "Medium",
         "crust": "Stuffed Crust - Cheese Maxx",
-        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.fc7440f47b09623563e03a8408749bef.1.jpg",
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.e577e25023a1baeb72b6381bf6692a73.1.jpg",
         "imgPortrait": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.8f08ca5d790eb17269fc15c3eacd2cf4.1.jpg"
     },
     "spiced-paneer-stuffed-crust-cheese-max-personal": {
@@ -2344,7 +2344,7 @@
         "desc": "Masala Paneer, Onion, Tomato",
         "size": "Personal",
         "crust": "Stuffed Crust - Cheese Maxx",
-        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.fc7440f47b09623563e03a8408749bef.1.jpg",
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.e577e25023a1baeb72b6381bf6692a73.1.jpg",
         "imgPortrait": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.8f08ca5d790eb17269fc15c3eacd2cf4.1.jpg"
     },
     "spiced-paneer-stuffed-crust-veg-kabab-medium": {
@@ -2354,7 +2354,7 @@
         "desc": "Masala Paneer, Onion, Tomato",
         "size": "Medium",
         "crust": "Stuffed Crust - Veg Kebab",
-        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.fc7440f47b09623563e03a8408749bef.1.jpg",
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.e577e25023a1baeb72b6381bf6692a73.1.jpg",
         "imgPortrait": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.8f08ca5d790eb17269fc15c3eacd2cf4.1.jpg"
     },
     "spiced-paneer-stuffed-crust-veg-kabab-personal": {
@@ -2364,7 +2364,7 @@
         "desc": "Masala Paneer, Onion, Tomato",
         "size": "Personal",
         "crust": "Stuffed Crust - Veg Kebab",
-        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.fc7440f47b09623563e03a8408749bef.1.jpg",
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.e577e25023a1baeb72b6381bf6692a73.1.jpg",
         "imgPortrait": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.8f08ca5d790eb17269fc15c3eacd2cf4.1.jpg"
     },
     "veggie-feast-pan-medium": {
@@ -3185,7 +3185,7 @@
         "desc": "Masala Paneer, Onion, Tomato",
         "size": "Medium",
         "crust": "San Francisco Style",
-        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.fc7440f47b09623563e03a8408749bef.1.jpg",
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.e577e25023a1baeb72b6381bf6692a73.1.jpg",
         "imgPortrait": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.8f08ca5d790eb17269fc15c3eacd2cf4.1.jpg"
     },
     "veggie-feast-san-francisco-medium": {
@@ -3534,7 +3534,7 @@
         "desc": "Masala Paneer, Onion, Tomato",
         "size": "Personal",
         "crust": "San Francisco Style",
-        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.fc7440f47b09623563e03a8408749bef.1.jpg",
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.e577e25023a1baeb72b6381bf6692a73.1.jpg",
         "imgPortrait": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.8f08ca5d790eb17269fc15c3eacd2cf4.1.jpg"
     },
     "veggie-feast-san-francisco-personal": {
@@ -6468,7 +6468,7 @@
         "desc": "Masala Paneer, Onion, Tomato",
         "size": "Medium",
         "crust": "Pan",
-        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.fc7440f47b09623563e03a8408749bef.1.jpg",
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.e577e25023a1baeb72b6381bf6692a73.1.jpg",
         "imgPortrait": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.8f08ca5d790eb17269fc15c3eacd2cf4.1.jpg"
     },
     "spiced-paneer-bogo-pan-personal": {
@@ -6478,7 +6478,7 @@
         "desc": "Masala Paneer, Onion, Tomato",
         "size": "Personal",
         "crust": "Pan",
-        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.fc7440f47b09623563e03a8408749bef.1.jpg",
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.e577e25023a1baeb72b6381bf6692a73.1.jpg",
         "imgPortrait": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.8f08ca5d790eb17269fc15c3eacd2cf4.1.jpg"
     },
     "spiced-paneer-bogo-stuffed-crust-cheese-max-medium": {
@@ -6488,7 +6488,7 @@
         "desc": "Masala Paneer, Onion, Tomato",
         "size": "Medium",
         "crust": "Stuffed Crust-Cheese Max",
-        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.fc7440f47b09623563e03a8408749bef.1.jpg",
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.e577e25023a1baeb72b6381bf6692a73.1.jpg",
         "imgPortrait": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.8f08ca5d790eb17269fc15c3eacd2cf4.1.jpg"
     },
     "spiced-paneer-bogo-stuffed-crust-cheese-max-personal": {
@@ -6498,7 +6498,7 @@
         "desc": "Masala Paneer, Onion, Tomato",
         "size": "Personal",
         "crust": "Stuffed Crust-Cheese Max",
-        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.fc7440f47b09623563e03a8408749bef.1.jpg",
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.e577e25023a1baeb72b6381bf6692a73.1.jpg",
         "imgPortrait": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.8f08ca5d790eb17269fc15c3eacd2cf4.1.jpg"
     },
     "spiced-paneer-bogo-stuffed-crust-veg-kabab-medium": {
@@ -6508,7 +6508,7 @@
         "desc": "Masala Paneer, Onion, Tomato",
         "size": "Medium",
         "crust": "Stuffed Crust-Veg Kabab",
-        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.fc7440f47b09623563e03a8408749bef.1.jpg",
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.e577e25023a1baeb72b6381bf6692a73.1.jpg",
         "imgPortrait": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.8f08ca5d790eb17269fc15c3eacd2cf4.1.jpg"
     },
     "spiced-paneer-bogo-stuffed-crust-veg-kabab-personal": {
@@ -6518,7 +6518,7 @@
         "desc": "Masala Paneer, Onion, Tomato",
         "size": "Personal",
         "crust": "Stuffed Crust-Veg Kabab",
-        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.fc7440f47b09623563e03a8408749bef.1.jpg",
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.e577e25023a1baeb72b6381bf6692a73.1.jpg",
         "imgPortrait": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.8f08ca5d790eb17269fc15c3eacd2cf4.1.jpg"
     },
     "veggie-feast-bogo-pan-medium": {
@@ -7172,7 +7172,7 @@
         "desc": "Masala Paneer, Onion, Tomato",
         "size": "Medium",
         "crust": "Handcrafted",
-        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.fc7440f47b09623563e03a8408749bef.1.jpg",
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.e577e25023a1baeb72b6381bf6692a73.1.jpg",
         "imgPortrait": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/spiced-paneer.8f08ca5d790eb17269fc15c3eacd2cf4.1.jpg"
     },
     "veggie-feast-bogo-san-francisco-medium": {
